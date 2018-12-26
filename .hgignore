@@ -1,0 +1,9 @@
+syntax: glob
+bin/*
+build/*
+*.orig
+.DS_Store
+*/.DS_Store
+dist/*
+sysProps.xml
+lib/User_Libraries.properties
